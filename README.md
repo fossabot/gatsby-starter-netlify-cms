@@ -1,4 +1,6 @@
 # Gatsby + Netlify CMS Starter
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fchandlerroth%2Fgatsby-starter-netlify-cms.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fchandlerroth%2Fgatsby-starter-netlify-cms?ref=badge_shield)
+
 
 **Note:** This starter uses the [Gatsby v2 Beta](https://www.gatsbyjs.org/blog/2018-06-16-announcing-gatsby-v2-beta-launch/).
 
@@ -52,3 +54,7 @@ npm install --global --production windows-build-tools
 ```
 
 [Full details here](https://www.npmjs.com/package/node-gyp 'NPM node-gyp page')
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fchandlerroth%2Fgatsby-starter-netlify-cms.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fchandlerroth%2Fgatsby-starter-netlify-cms?ref=badge_large)
